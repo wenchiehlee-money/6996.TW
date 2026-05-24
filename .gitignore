@@ -1,0 +1,4 @@
+
+# Gemini CLI safety audit
+.claude/
+__pycache__/
